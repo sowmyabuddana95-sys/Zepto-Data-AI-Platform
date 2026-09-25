@@ -1,0 +1,167 @@
+================================================================================
+Q1_SELECT_WHERE
+================================================================================
+                                                                   title  price_gbp  rating
+      Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond      49.43       4
+                                        A Year in Provence (Provence #1)      56.88       4
+                                      1,000 Places to See Before You Die      26.08       5
+                                                           Sharp Objects      47.82       4
+                                                     The Past Never Ends      56.50       4
+                         The Murder of Roger Ackroyd (Hercule Poirot #4)      44.10       4
+                                  A Time of Torment (Charlie Parker #14)      48.35       5
+                   Murder at the 42nd Street Library (Raymond Ambler #1)      54.36       4
+       What Happened on Beale Street (Secrets of the South Mysteries #2)      25.37       5
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)      52.30       5
+                        Delivering the Truth (Quaker Midwife Mystery #1)      20.89       4
+                     The Mysterious Affair at Styles (Hercule Poirot #1)      24.80       4
+                                       The Silkworm (Cormoran Strike #2)      23.05       5
+  The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)      57.70       4
+                                                       The Girl You Lost      12.29       5
+                                 A Flight of Arrows (The Pathfinders #2)      55.53       5
+                                                            Mrs. Houdini      30.25       5
+                                               The Marriage of Opposites      28.08       4
+                                                       A Paris Apartment      39.01       4
+                         World Without End (The Pillars of the Earth #2)      32.97       4
+                                                   The Passion of Dolssa      28.32       5
+                                                  Voyager (Outlander #3)      21.07       5
+                                                            The Red Tent      35.66       5
+
+================================================================================
+Q2_ORDER_BY
+================================================================================
+                                                                                            title  price_gbp
+                                                                    Boar Island (Anna Pigeon #19)      59.48
+                           The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)      57.70
+                                                                 A Year in Provence (Provence #1)      56.88
+                                                                              The Past Never Ends      56.50
+                                                          A Flight of Arrows (The Pathfinders #2)      55.53
+                                            Murder at the 42nd Street Library (Raymond Ambler #1)      54.36
+                                                                   The Last Mile (Amos Decker #2)      54.21
+                                                              1st to Die (Women's Murder Club #1)      53.98
+                                                                               Tipping the Velvet      53.74
+                         The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)      52.30
+                               Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond      49.43
+                               See America: A Celebration of Our National Parks & Treasured Sites      48.87
+                                                           A Time of Torment (Charlie Parker #14)      48.35
+                                                                                    Sharp Objects      47.82
+                                                  Glory over Everything: Beyond The Kitchen House      45.84
+                                                                          It's Only the Himalayas      45.17
+                                                                               A Summer In Europe      44.34
+                                                  The Murder of Roger Ackroyd (Hercule Poirot #4)      44.10
+                                                                                       The Exiled      43.45
+                                                                                A Paris Apartment      39.01
+                                                        Neither Here nor There: Travels in Europe      38.95
+                                                            In the Woods (Dublin Murder Squad #1)      38.38
+                                                                           The Invention of Wings      37.34
+                                                                             Under the Tuscan Sun      37.33
+                                                                            The House by the Lake      36.95
+                              Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel      36.94
+                                                                                     The Red Tent      35.66
+                                                                                      Most Wanted      35.28
+                                                  World Without End (The Pillars of the Earth #2)      32.97
+                                                                         The Great Railway Bazaar      30.54
+                                                                                     Mrs. Houdini      30.25
+                        Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton      29.69
+                                                                            The Passion of Dolssa      28.32
+                                                                        The Marriage of Opposites      28.08
+                                                                                        The Widow      27.26
+                                                                 Poisonous (Max Revere Novels #3)      26.80
+                                                                        Girl With a Pearl Earring      26.77
+                                                               1,000 Places to See Before You Die      26.08
+                                                               Extreme Prey (Lucas Davenport #26)      25.40
+                                What Happened on Beale Street (Secrets of the South Mysteries #2)      25.37
+                                              The Mysterious Affair at Styles (Hercule Poirot #1)      24.80
+                                                              Career of Evil (Cormoran Strike #3)      24.72
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)      23.21
+                                                                The Silkworm (Cormoran Strike #2)      23.05
+                                                                           Voyager (Outlander #3)      21.07
+                                                 Delivering the Truth (Quaker Midwife Mystery #1)      20.89
+                                                                             Love, Lies and Spies      20.55
+                                                             Blood Defense (Samantha Brinkman #1)      20.30
+                                                                             In a Dark, Dark Wood      19.63
+                                                        The Cuckoo's Calling (Cormoran Strike #1)      19.21
+                                                                                      Lilac Girls      17.28
+                                                          A Study in Scarlet (Sherlock Holmes #1)      16.73
+                                                                                 A Murder in Time      16.64
+                                                       The Constant Princess (The Tudor Court #1)      16.62
+                                                        The Girl In The Ice (DCI Erika Foster #1)      15.85
+                                                           That Darkness (Gardiner and Renner #1)      13.92
+                                                                                Playing with Fire      13.71
+                                                                                The Girl You Lost      12.29
+                                                                       Hide Away (Eve Duncan #20)      11.84
+                                                             Tastes Like Fear (DI Marnie Rome #3)      10.69
+
+================================================================================
+Q3_LIMIT
+================================================================================
+                                                                   title  price_gbp
+                                           Boar Island (Anna Pigeon #19)      59.48
+  The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)      57.70
+                                        A Year in Provence (Provence #1)      56.88
+                                                     The Past Never Ends      56.50
+                                 A Flight of Arrows (The Pathfinders #2)      55.53
+                   Murder at the 42nd Street Library (Raymond Ambler #1)      54.36
+                                          The Last Mile (Amos Decker #2)      54.21
+                                     1st to Die (Women's Murder Club #1)      53.98
+                                                      Tipping the Velvet      53.74
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)      52.30
+
+================================================================================
+Q4_DISTINCT
+================================================================================
+ rating
+      1
+      2
+      3
+      4
+      5
+
+================================================================================
+Q5_BETWEEN
+================================================================================
+                                                                                            title  price_gbp
+                                                             Blood Defense (Samantha Brinkman #1)      20.30
+                                                                             Love, Lies and Spies      20.55
+                                                 Delivering the Truth (Quaker Midwife Mystery #1)      20.89
+                                                                           Voyager (Outlander #3)      21.07
+                                                                The Silkworm (Cormoran Strike #2)      23.05
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)      23.21
+                                                              Career of Evil (Cormoran Strike #3)      24.72
+                                              The Mysterious Affair at Styles (Hercule Poirot #1)      24.80
+                                What Happened on Beale Street (Secrets of the South Mysteries #2)      25.37
+                                                               Extreme Prey (Lucas Davenport #26)      25.40
+                                                               1,000 Places to See Before You Die      26.08
+                                                                        Girl With a Pearl Earring      26.77
+                                                                 Poisonous (Max Revere Novels #3)      26.80
+                                                                                        The Widow      27.26
+                                                                        The Marriage of Opposites      28.08
+                                                                            The Passion of Dolssa      28.32
+                        Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton      29.69
+                                                                                     Mrs. Houdini      30.25
+                                                                         The Great Railway Bazaar      30.54
+                                                  World Without End (The Pillars of the Earth #2)      32.97
+                                                                                      Most Wanted      35.28
+                                                                                     The Red Tent      35.66
+                              Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel      36.94
+                                                                            The House by the Lake      36.95
+                                                                             Under the Tuscan Sun      37.33
+                                                                           The Invention of Wings      37.34
+                                                            In the Woods (Dublin Murder Squad #1)      38.38
+                                                        Neither Here nor There: Travels in Europe      38.95
+                                                                                A Paris Apartment      39.01
+
+================================================================================
+Q6_JOIN
+================================================================================
+                                                                    title  price_inr  rating      category_name
+                                  A Flight of Arrows (The Pathfinders #2)   5858.415       5 Historical Fiction
+                                                             Mrs. Houdini   3191.375       5 Historical Fiction
+                                                    The Passion of Dolssa   2987.760       5 Historical Fiction
+                                                             The Red Tent   3762.130       5 Historical Fiction
+                                                   Voyager (Outlander #3)   2222.885       5 Historical Fiction
+                                                        A Paris Apartment   4115.555       4 Historical Fiction
+                                                The Marriage of Opposites   2962.440       4 Historical Fiction
+                          World Without End (The Pillars of the Earth #2)   3478.335       4 Historical Fiction
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton   3132.295       3 Historical Fiction
+                          Glory over Everything: Beyond The Kitchen House   4836.120       3 Historical Fiction
+
