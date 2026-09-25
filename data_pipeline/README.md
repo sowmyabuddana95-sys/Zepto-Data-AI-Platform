@@ -160,3 +160,8 @@ The notebook performs the scraping, cleaning, conversion, database creation, SQL
 - queries.sql — SQL query definitions
 - query_outputs.txt — saved SQL query results
 - README.md — module documentation
+## Completion Status
+
+Module 1 has been validated with 60 books across 3 categories.
+
+The final validation confirmed matching book and category counts between the pandas dataset and SQLite database. SQL JOIN results were also verified against the equivalent pandas merge() output.
