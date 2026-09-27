@@ -1,0 +1,3 @@
+Cancellation
+
+Orders can be cancelled for free before they reach the Packed stage, typically within the first 2 minutes. After an order is packed, it cannot be cancelled through the app. If an issue occurs on Zepto's side, the order may be automatically cancelled and a full refund will be issued.
